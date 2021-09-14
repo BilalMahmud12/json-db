@@ -1,0 +1,18 @@
+{
+  "Categories" : [
+    { "id": 1,
+      "name": "Turkish Delights",
+      "slug": "turkish-delights",
+      "childs" : [
+        { "id" : 1, "name": "Lokums", "slug" : "lokums" }
+      ]
+    },
+    { "id": 2, "name": "Herbs", "slug": "herbs" },
+    { "id": 3, "name": "Turkish Grocery", "slug": "turkish-grocery" },
+    { "id": 4, "name": "Beauty & Health Care", "slug": "beauty-healthcare" },
+    { "id": 5, "name": "Decor & Arts", "slug": "decor-arts" },
+    { "id": 6, "name": "Gifts", "slug": "gifts" },
+    { "id": 7, "name": "Kitchen Products", "slug": "kitchen-products" },
+    { "id": 8, "name": "Big Discounts", "slug": "big-discounts" }
+  ]
+}
